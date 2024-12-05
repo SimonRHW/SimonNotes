@@ -51,6 +51,16 @@
               "icon": "lucide-file",
               "title": "插件不再活动"
             }
+          },
+          {
+            "id": "43fd7ca5b3d709dd",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-tab-tree",
+              "state": {},
+              "icon": "chrome",
+              "title": "Surfing Tab Tree"
+            }
           }
         ]
       }
@@ -121,7 +131,10 @@
       "command-palette:打开命令面板": false,
       "workspaces:管理工作区布局": false,
       "audio-recorder:开始/结束录音": false,
-      "graph:查看关系图谱": false
+      "graph:查看关系图谱": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "copilot:Copilot Chat": false,
+      "surfing:surfing-bookmark-manager": false
     }
   },
   "active": "dfef3a2e3e4bc18c",
