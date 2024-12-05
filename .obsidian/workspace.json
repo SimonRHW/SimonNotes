@@ -41,26 +41,6 @@
               "icon": "lucide-folder-closed",
               "title": "文件列表"
             }
-          },
-          {
-            "id": "1457fbe477a5613d",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-tab-tree",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "插件不再活动"
-            }
-          },
-          {
-            "id": "43fd7ca5b3d709dd",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-tab-tree",
-              "state": {},
-              "icon": "chrome",
-              "title": "Surfing Tab Tree"
-            }
           }
         ]
       }
@@ -134,7 +114,9 @@
       "graph:查看关系图谱": false,
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
       "copilot:Copilot Chat": false,
-      "surfing:surfing-bookmark-manager": false
+      "surfing:surfing-bookmark-manager": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "dfef3a2e3e4bc18c",
